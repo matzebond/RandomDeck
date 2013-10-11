@@ -1,9 +1,0 @@
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\bin\Release\RandomDeck.dll
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\bin\Release\RandomDeck.pdb
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\bin\Release\Assembly-CSharp.dll
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\bin\Release\Mono.Cecil.dll
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\bin\Release\ScrollsModLoader.Interfaces.dll
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\bin\Release\UnityEngine.dll
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\obj\Release\RandomDeck.csprojResolveAssemblyReference.cache
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\obj\Release\RandomDeck.dll
-C:\Users\Matze\Documents\_Programmieren\C#\RandomDeck\RandomDeck\obj\Release\RandomDeck.pdb
